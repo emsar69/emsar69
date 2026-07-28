@@ -32,7 +32,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://static2.klipy.com/ii/925f17378dd1893b674a723c07535afe/77/a5/j7UF4u5O.gif"  />
+  <img data-importer="image" height="200" src="src/back.gif"  />
 </div>
 
 ###
